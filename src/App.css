@@ -1,0 +1,10 @@
+.head-wrapper {
+  max-width: 1087px;
+  /* min-width: 1000px; */
+  width: 100%;
+  background-color: #1b1b1b;
+}
+
+header{
+  min-width: 100%;
+}
